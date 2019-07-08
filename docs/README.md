@@ -5,7 +5,7 @@
 * 姓名：刘祥
 * 性别：男
 * 出生日期：1990/10/10
-* 工作年限：4~5 年
+* 工作经验：4~5 年
 * 联系电话：13426116367
 * 电子邮箱：[lx1036@126.com](mailto:lx1036@126.com) 或 [lx20081036@gmail.com](mailto:lx20081036@gmail.com)
 * 技术专栏：
@@ -24,6 +24,22 @@
   * 贯彻业务第一、技术第二原则，不走极端，但拒绝懒惰，拒绝不思考怎么提高代码质量来提高工作效率，减少工作时间。
   * 团队沟通氛围非常友好，技术分享氛围非常棒棒的，**个人经验，团队沟通是最最重要的生产力，远大于技术学习，高效的团队沟通是第一生产力**。坚持团队化作战，反对单打独斗。
 
+## 技能清单
+
+* 会使用 PHP 后端相关技术栈：
+  * 使用 Composer 及相关 Toran Proxy 搭建私有 Packgist 包。
+  * 使用 Laravel 框架及相关原理，并根据业务二次开发相关模块，如 database、testing、validation、filesystem、http 等相关模块。会使用 Auth 相关模块，包括不限于 OAuth/JWT、单点登录 SAML2.0 等模块。
+  * 会使用 PHPUnit/Mockery 编写项目单元测试和集成测试，包括针对数据库、文件系统等有一定难度的代码测试，并结合框架二次开发测试模块。
+  * 会使用 MysqlWorkbench 设计和作画数据库图，并为了提高工作效率，建议画出项目的数据库图。
+  * 会使用异常搜集服务 Sentry，并会针对其 sentry php 包结合业务做二次开发，为了提高工作效率，建议项目接入类似 Sentry 的异常搜集服务。
+  * 会使用数据库，如 Redis、关系型数据库 MySQL。配置 Nginx。
+* 会使用 TypeScript 前端相关技术栈：
+  * 
+* 会使用容器运维相关技术栈：
+  * 会使用 AWS/AliCloud 相关服务。会使用常用 DevOps 软件：Git/Gitlab CI(CD)/JIRA/Confluence/Slack。
+  * 会使用 Docker 安装软件，并会使用 Dockfile 编写镜像，会使用 Docker Compose 管理容器。目前正在使用 Go 语言编写个简单的 Docker，顺便重新学习 Linux Kernel。了解并学习中 Kubernetes，了解其相关概念，以及一些简单操作。
+  * 会使用 Ansible playbook 功能来自动化部署服务，使用其 Inventory 来自动部署多个机器。同时遵循 IaaS 基础架构即代码，会使用 Terraform 来构建基础资源，如 AWS EC2/VPC 等等，会使用 Packer 来构建自有的 Machine Image。
+  * 
 
 ::: warning
 生命不息，折腾不止
