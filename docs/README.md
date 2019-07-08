@@ -1,5 +1,6 @@
 
-## 我是谁 [![Build Status](https://travis-ci.org/lx1036/lx1036.github.io.svg?branch=docs)](https://travis-ci.org/lx1036/lx1036.github.io) [![Build Status](https://img.shields.io/github/stars/lx1036/lx1036.github.io.svg?style=social)](https://github.com/lx1036/lx1036.github.io/)
+## 我是谁 
+[![Build Status](https://travis-ci.org/lx1036/lx1036.github.io.svg?branch=docs)](https://travis-ci.org/lx1036/lx1036.github.io) [![Build Status](https://img.shields.io/github/stars/lx1036/lx1036.github.io.svg?style=social)](https://github.com/lx1036/lx1036.github.io/)
 
 * 姓名：刘祥
 * 性别：男
