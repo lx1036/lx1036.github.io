@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'docs/pdf/刘祥的简历',
+  title: 'docs/.vuepress/dist/北航硕士刘祥的简历',
   plugins: ['vuepress-plugin-export'],
   locales: {
     '/': {
