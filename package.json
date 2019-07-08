@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "export": "vuepress export docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.1",
+    "vuepress-plugin-export": "^0.2.0"
+  }
+}
