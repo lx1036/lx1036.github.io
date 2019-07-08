@@ -15,7 +15,7 @@
   * [github lx1036](https://github.com/lx1036?tab=repositories)。主要包括个人学习的运维相关 [docker repo](https://github.com/lx1036/docker)、前端相关 [router repo](https://github.com/lx1036/router)、后端相关 [routing repo](https://github.com/lx1036/routing)，其中 router repo 中包含了很多 Angular/Vue 框架的一些源码，供研究用。
 * 编码习惯 Mac OS X 系统并外接显示器，并且绝对的需要科学上网；如果没有，本人可以辅助搭建路由器级别的科学上网，甚至可以使用 Terraform + Ansible 一行命令构建可以科学上网的 AWS/AliCloud/GCP 云服务器。
 * 咖啡时间：闲暇之余学习 Go 语言，最近在使用 Go 语言实现自己的 Docker；学习 Kubernetes；重新学习网络相关知识。
-* 目前年薪：￥42.9 万现金（月薪 ￥3.3 万现金） + 价值￥3.3 万股票
+* 目前年薪：￥42.9 万现金（月薪 ￥3.3 万现金 * 13） + 价值￥3.3 万股票
 * 期望年薪：￥50+ 万现金
 * 可到岗时间：两周。目前处于离职休假中，写写代码，看看大千世界，仗剑走天涯中。
 * 其他要求：

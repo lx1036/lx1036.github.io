@@ -1,5 +1,8 @@
 module.exports = {
   title: 'docs/.vuepress/dist/北航硕士刘祥的简历',
+  head: [
+    ['link', {rel: 'icon', href: '/logo.png'}]
+  ],
   plugins: ['vuepress-plugin-export'],
   locales: {
     '/': {
