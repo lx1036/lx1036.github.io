@@ -1,9 +1,10 @@
 module.exports = {
   title: 'docs/.vuepress/dist/北航硕士刘祥的简历',
+  exportPdfOrder: ["README.md", "专业技能.md", "工作经历.md", "项目经历.md", "教育经历.md", "自我介绍.md"],
   head: [
     ['link', {rel: 'icon', href: '/logo.png'}]
   ],
-  plugins: ['vuepress-plugin-export'],
+  plugins: ['@lx1036/vuepress-plugin-export'],
   locales: {
     '/': {
       lang: 'zh-CN',

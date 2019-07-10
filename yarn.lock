@@ -670,6 +670,14 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@lx1036/vuepress-plugin-export@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.npm.taobao.org/@lx1036/vuepress-plugin-export/download/@lx1036/vuepress-plugin-export-0.3.2.tgz#ada78ca2899eb69a1c079fed3f4d83cb719f8830"
+  integrity sha1-raeMoometpocB5/tP02Dy3GfiDA=
+  dependencies:
+    easy-pdf-merge "^0.2.0"
+    puppeteer "^1.11.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/@mrmlnc/readdir-enhanced/download/@mrmlnc/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -7063,14 +7071,6 @@ vuepress-plugin-container@^2.0.0:
   integrity sha1-NInMcyx6IQsx8gJVbhNGEl3/63M=
   dependencies:
     markdown-it-container "^2.0.0"
-
-vuepress-plugin-export@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/vuepress-plugin-export/download/vuepress-plugin-export-0.2.0.tgz#b5ed422f7b33b409b754d8fde2aed236b6eeab44"
-  integrity sha1-te1CL3sztAm3VNj94q7SNrbuq0Q=
-  dependencies:
-    easy-pdf-merge "^0.2.0"
-    puppeteer "^1.11.0"
 
 vuepress@^1.0.1:
   version "1.0.2"

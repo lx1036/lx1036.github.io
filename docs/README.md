@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/lx1036/lx1036.github.io.svg?branch=docs)](https://travis-ci.org/lx1036/lx1036.github.io) [![Build Status](https://img.shields.io/github/stars/lx1036/lx1036.github.io.svg?style=social)](https://github.com/lx1036/lx1036.github.io/)
 
 :::tip
-强烈建议打开网页查看简历，体验效果更佳：[北航硕士刘祥的简历](https://lx1036.github.io)
+由于该项目依赖 NPM 包 [@lx1036/vuepress-plugin-export](https://www.npmjs.com/package/@lx1036/vuepress-plugin-export) 存有小 bug，故强烈建议打开网页查看简历，体验效果更佳：[北航硕士刘祥的简历](https://lx1036.github.io)
 :::
 
 * 姓名：刘祥
