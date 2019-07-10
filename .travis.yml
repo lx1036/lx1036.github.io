@@ -2,6 +2,8 @@ language: node_js
 node_js:
     - "10"
 cache: yarn
+# before_install:
+    # - sudo apt-get -y --no-install-recommends install texlive-full # 更新系统字体列表
 install:
     - yarn
 script:
