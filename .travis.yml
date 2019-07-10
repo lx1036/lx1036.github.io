@@ -1,16 +1,19 @@
 language: node_js
 node_js:
-    - 10
+    - "10"
 cache: yarn
 install:
     - yarn
 script:
     - yarn build && yarn export
 after_success:
+    - git config --global user.name "${USERNAME}"
+    - git config --global user.email "${EMAIL}"
+    - git add -A
+    - git commit -m 'deploy pdf profile' # export PDF in travis has a bug
+    - git push "https://${GH_TOKEN}@${REPO}" docs:${PDF_BRANCH}
     - cd docs/.vuepress/dist
     - git init
-    - git config --global user.name "${U_NAME}"
-    - git config --global user.email "${U_EMAIL}"
     - git add -A
-    - git commit -m 'deploy docs'
-    - git push --quiet --force "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
+    - git commit -m 'deploy web profile'
+    - git push --force "https://${GH_TOKEN}@${REPO}" master:${WEB_BRANCH}
