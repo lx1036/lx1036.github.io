@@ -23,7 +23,7 @@ actionLink: /专业技能/
 * 技术专栏：
   * [segmentfault](https://segmentfault.com/u/lx1036/articles)。主要写一些 PHP/Laravel 经验文章，以及 TypeScript/Angular 技术文章，以及以后的 Vue 相关文章。
   * [掘金](https://juejin.im/user/5a41ffe46fb9a045132af41f/posts)。主要翻译了一些 Angular 深度技术好文。
-  * [知乎AngularInDepth文章翻译](https://zhuanlan.zhihu.com/DepthInAngular)。我是发起人，且翻译文章数量最多，目前该专栏很久没发布新文章，小伙伴们都去学习 Vue/React 去了。
+  * [知乎 AngularInDepth 文章翻译](https://zhuanlan.zhihu.com/DepthInAngular)。我是发起人，且翻译文章数量最多，目前该专栏很久没发布新文章，小伙伴们都去学习 Vue/React 去了。
   * [github lx1036](https://github.com/lx1036?tab=repositories)。主要包括个人学习的运维相关 [docker repo](https://github.com/lx1036/docker)、前端相关 [router repo](https://github.com/lx1036/router)、后端相关 [routing repo](https://github.com/lx1036/routing)，其中 router repo 中包含了很多 Angular/Vue 框架的一些源码，供研究用。
 * 咖啡时间：闲暇之余学习 Go 语言，最近在使用 Go 语言实现自己的 Docker；学习 Kubernetes；重新学习网络相关知识。
 * 目前年薪：税前 ￥42.9 万现金（月薪 ￥3.3 万现金 * 13） + 价值 ￥3.3 万股票
@@ -36,5 +36,5 @@ actionLink: /专业技能/
   * 团队沟通氛围非常友好，技术分享氛围非常棒，**个人经验，团队沟通是最最重要的生产力，远大于技术学习，高效的团队沟通是第一生产力**。坚持团队化作战，反对单打独斗。
 
 ::: tip
-生命不息，折腾不止
+应聘职位：PHP 开发工程师
 :::
