@@ -9,11 +9,13 @@ script:
 after_success:
     - git config --global user.name "${USERNAME}"
     - git config --global user.email "${EMAIL}"
+    - git checkout ${PDF_BRANCH}
     - git add -A
     - git commit -m '[skip ci] deploy pdf profile' # export PDF in travis has a bug
-    - git push "https://${GH_TOKEN}@${REPO}" docs:${PDF_BRANCH}
+    - git push "https://${GH_TOKEN}@${REPO}" ${PDF_BRANCH}:${PDF_BRANCH}
     - cd docs/.vuepress/dist
     - git init
+    - git checkout ${WEB_BRANCH}
     - git add -A
     - git commit -m 'deploy web profile'
-    - git push --force "https://${GH_TOKEN}@${REPO}" master:${WEB_BRANCH}
+    - git push --force "https://${GH_TOKEN}@${REPO}" ${WEB_BRANCH}:${WEB_BRANCH}
