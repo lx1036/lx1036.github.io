@@ -1,6 +1,10 @@
 
-## 我是谁 
+# 我是谁 
 [![Build Status](https://travis-ci.org/lx1036/lx1036.github.io.svg?branch=docs)](https://travis-ci.org/lx1036/lx1036.github.io) [![Build Status](https://img.shields.io/github/stars/lx1036/lx1036.github.io.svg?style=social)](https://github.com/lx1036/lx1036.github.io/)
+
+:::tip
+强烈建议打开网页查看简历，体验效果更佳：[北航硕士刘祥的简历](https://lx1036.github.io)
+:::
 
 * 姓名：刘祥
 * 性别：男
@@ -23,6 +27,6 @@
   * 贯彻业务第一、技术第二原则，不走极端，但拒绝懒惰，拒绝不思考怎么提高代码质量来提高工作效率，减少工作时间。
   * 团队沟通氛围非常友好，技术分享氛围非常棒棒的，**个人经验，团队沟通是最最重要的生产力，远大于技术学习，高效的团队沟通是第一生产力**。坚持团队化作战，反对单打独斗。
 
-::: warning
+::: tip
 生命不息，折腾不止
 :::
