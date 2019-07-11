@@ -670,10 +670,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@lx1036/vuepress-plugin-export@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.npm.taobao.org/@lx1036/vuepress-plugin-export/download/@lx1036/vuepress-plugin-export-0.3.2.tgz#ada78ca2899eb69a1c079fed3f4d83cb719f8830"
-  integrity sha1-raeMoometpocB5/tP02Dy3GfiDA=
+"@lx1036/vuepress-plugin-export@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.npm.taobao.org/@lx1036/vuepress-plugin-export/download/@lx1036/vuepress-plugin-export-0.4.0.tgz#ee708b0bc615c2ab6ffeab0a018b7d95a5282eb6"
+  integrity sha1-7nCLC8YVwqtv/qsKAYt9laUoLrY=
   dependencies:
     easy-pdf-merge "^0.2.0"
     puppeteer "^1.11.0"
@@ -4574,7 +4574,7 @@ move-concurrently@^1.0.1:
 
 ms@2.0.0:
   version "2.0.0"
-  resolved "https://registry.npm.taobao.org/ms/download/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
+  resolved "https://registry.npm.taobao.org/ms/download/ms-2.0.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fms%2Fdownload%2Fms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
   integrity sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=
 
 ms@2.1.1:
@@ -4584,7 +4584,7 @@ ms@2.1.1:
 
 ms@^2.1.1:
   version "2.1.2"
-  resolved "https://registry.npm.taobao.org/ms/download/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
+  resolved "https://registry.npm.taobao.org/ms/download/ms-2.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fms%2Fdownload%2Fms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha1-0J0fNXtEP0kzgqjrPM0YOHKuYAk=
 
 multicast-dns-service-types@^1.1.0:
@@ -7289,7 +7289,7 @@ wrappy@1:
 
 ws@^6.1.0:
   version "6.2.1"
-  resolved "https://registry.npm.taobao.org/ws/download/ws-6.2.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fws%2Fdownload%2Fws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
+  resolved "https://registry.npm.taobao.org/ws/download/ws-6.2.1.tgz?cache=0&sync_timestamp=1562602302661&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fws%2Fdownload%2Fws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
   integrity sha1-RC/fCkftZPWbal2P8TD0dI7VJPs=
   dependencies:
     async-limiter "~1.0.0"
