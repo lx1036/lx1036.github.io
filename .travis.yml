@@ -7,14 +7,15 @@ cache: yarn
 install:
     - yarn
 script:
-    - yarn build && yarn export
+    - yarn build 
+    # && yarn export
 after_success:
     - git config --global user.name "${USERNAME}"
     - git config --global user.email "${EMAIL}"
-    - git checkout ${PDF_BRANCH}
-    - git add -A
-    - git commit -m '[skip ci] deploy pdf profile' # export PDF in travis has a bug
-    - git push "https://${GH_TOKEN}@${REPO}" ${PDF_BRANCH}:${PDF_BRANCH}
+    # - git checkout ${PDF_BRANCH}
+    # - git add -A
+    # - git commit -m '[skip ci] deploy pdf profile' # export PDF in travis has a bug
+    # - git push "https://${GH_TOKEN}@${REPO}" ${PDF_BRANCH}:${PDF_BRANCH}
     - cd docs/.vuepress/dist
     - git init
     - git checkout ${WEB_BRANCH}
