@@ -11,7 +11,7 @@ actionLink: /专业技能/
 :::tip
 [下载 PDF](https://github.com/lx1036/lx1036.github.io/raw/docs/docs/pdf/%E5%8C%97%E8%88%AA%E7%A1%95%E5%A3%AB%E5%88%98%E7%A5%A5%E7%9A%84%E7%AE%80%E5%8E%86.pdf)
 
-由于该项目依赖 NPM 包 [@lx1036/vuepress-plugin-export](https://www.npmjs.com/package/@lx1036/vuepress-plugin-export) 存有小 bug，故强烈建议打开网页查看简历，体验效果更佳：[北航硕士刘祥的简历](https://lx1036.github.io)。
+由于该项目依赖的 NPM 包 [@lx1036/vuepress-plugin-export](https://www.npmjs.com/package/@lx1036/vuepress-plugin-export) 存有小 bug，故强烈建议打开网页查看简历，体验效果更佳：[北航硕士刘祥的简历](https://lx1036.github.io)。
 :::
 
 * 姓名：刘祥
