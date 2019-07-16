@@ -5,7 +5,7 @@ actionText: 了解我 →
 actionLink: /专业技能/
 ---
 
-# 我是谁 [:blush:](./面试邀请.html)
+# 我是谁
 [![Build Status](https://travis-ci.org/lx1036/lx1036.github.io.svg?branch=docs)](https://travis-ci.org/lx1036/lx1036.github.io) [![Build Status](https://img.shields.io/github/stars/lx1036/lx1036.github.io.svg?style=social)](https://github.com/lx1036/lx1036.github.io/)
 
 :::tip
