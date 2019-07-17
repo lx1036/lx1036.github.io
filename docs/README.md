@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 actionText: 了解我 →
-actionLink: /专业技能/
+actionLink: /教育经历/
 ---
 
 # 我是谁
