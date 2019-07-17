@@ -27,7 +27,7 @@ actionLink: /专业技能/
   * [掘金](https://juejin.im/user/5a41ffe46fb9a045132af41f/posts)。主要翻译了一些 Angular 深度技术好文。
   * [知乎 AngularInDepth 文章翻译](https://zhuanlan.zhihu.com/DepthInAngular)，[github](https://github.com/AngularInDepth/angularindepth)。我是发起人，且翻译文章数量最多，目前该专栏很久没发布新文章，小伙伴们都去学习 Vue/React 去了。
   * [github lx1036](https://github.com/lx1036?tab=repositories)。主要包括个人学习的运维相关 [docker repo](https://github.com/lx1036/docker)、前端相关 [router repo](https://github.com/lx1036/router)、后端相关 [routing repo](https://github.com/lx1036/routing)，其中 router repo 中包含了很多 Angular/Vue 框架的一些源码，供研究用。
-* 咖啡时间：闲暇之余学习 Go 语言，最近在使用 Go 语言实现自己的 Docker；学习 Kubernetes；重新学习网络相关知识。
+* 咖啡时间：闲暇之余学习 Go 语言，最近在使用 Go 语言实现自己的 Docker；学习 Java/Spring，语言框架都是相通的；学习 Kubernetes；重新学习网络相关知识。
 * 目前年薪：税前 ￥42.9 万现金（月薪 ￥3.3 万现金 * 13） + 价值 ￥3.3 万股票
 * 期望年薪：￥50+ 万（可包括现金+股票，最好全部现金）
 * 可到岗时间：2-3 周。目前处于离职休假中，写写代码，看看大千世界，仗剑走天涯中。
