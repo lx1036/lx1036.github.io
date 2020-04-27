@@ -16,9 +16,10 @@ actionLink: /教育经历/
 
 * 姓名：刘祥
 * 性别：男
-* 出生日期：1990/10/10
+* 出生日期：1991-10-10
 * 学位：北京航空航天大学硕士/北京理工大学学士
-* 工作经验：4~5 年
+* 工作经验：5 年
+* 毕业时间：2015-07-01
 * 联系电话：13426116367
 * 微信号：13426116367
 * 电子邮箱：[lx1036@126.com](mailto:lx1036@126.com) 或 [lx20081036@gmail.com](mailto:lx20081036@gmail.com)
@@ -27,7 +28,7 @@ actionLink: /教育经历/
   * [掘金](https://juejin.im/user/5a41ffe46fb9a045132af41f/posts)。主要翻译了一些 Angular 深度技术好文。
   * [知乎 AngularInDepth 文章翻译](https://zhuanlan.zhihu.com/DepthInAngular)，[github](https://github.com/AngularID-CN/AngularID-CN)。我是发起人，且翻译文章数量最多，目前该专栏很久没发布新文章，小伙伴们都去学习 Vue/React 去了。
   * [github lx1036](https://github.com/lx1036?tab=repositories)。主要包括个人学习的运维相关 [docker repo](https://github.com/lx1036/docker)、前端相关 [router repo](https://github.com/lx1036/router)、后端相关 [routing repo](https://github.com/lx1036/routing)，其中 router repo 中包含了很多 Angular/Vue 框架的一些源码，供研究用。
-* 咖啡时间：闲暇之余学习 Go 语言，最近在使用 Go 语言实现自己的 Docker；学习 Kubernetes；重新学习网络相关知识。
+* 主要精力：学习 Golang/Docker/Kubernetes 相关开发。
 * 可到岗时间：2-3 周。目前处于离职休假中，写写代码，看看大千世界，仗剑走天涯中。
 * 其他要求：
   * 正常双休，但接受一定范围内加班。公司或公司附近有健身房最好。
@@ -36,5 +37,5 @@ actionLink: /教育经历/
   * 团队沟通氛围非常友好，技术分享氛围非常棒，**个人经验，团队沟通是最最重要的生产力，远大于技术学习，高效的团队沟通是第一生产力**。坚持团队化作战，反对单打独斗。
 
 ::: tip
-应聘职位：PHP/Go 后端开发工程师/Web 前端开发工程师(TypeScript)
+应聘职位：Go/PHP 后端开发工程师/Web 前端开发工程师(TypeScript)
 :::
