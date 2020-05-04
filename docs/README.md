@@ -22,6 +22,7 @@ actionLink: /教育经历/
 * 毕业时间：2015-07-01
 * 联系电话：13426116367
 * 微信号：13426116367
+* 年薪：45-50 万
 * 电子邮箱：[lx1036@126.com](mailto:lx1036@126.com) 或 [lx20081036@gmail.com](mailto:lx20081036@gmail.com)
 * 技术专栏：
   * [segmentfault](https://segmentfault.com/u/lx1036/articles)。主要写一些 PHP/Laravel 经验文章，以及 TypeScript/Angular 技术文章，以及以后的 Vue 相关文章。

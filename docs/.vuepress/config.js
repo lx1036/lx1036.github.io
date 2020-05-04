@@ -9,7 +9,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: 'lx1036 的简历',
-      description: '生命不息，折腾不止'
+      description: '心里有火，眼里有光。奔涌吧，后浪！'
     }
   },
   themeConfig: {
